@@ -173,7 +173,3 @@ Follow these steps to set up the project on your local machine:
 
 4. Access the application:
    - Open your browser and visit: `http://localhost:5173`
-
----
-
-_Made with ❤️ by [Gulshan Kumar](https://www.linkedin.com/in/gulshan-kumar-8293b9260/)_
